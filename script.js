@@ -122,49 +122,49 @@ let resetSoundMinDuration = 25;
 let resetSoundMaxDuration = 120;
 
 function preload() {
-    pinceles.aero1 = loadImage("imagenes/aero1.png");
-    pinceles.aero3 = loadImage("imagenes/aero3.png");
-    pinceles.aero4 = loadImage("imagenes/aero4.png");
-    pinceles.aero5 = loadImage("imagenes/aero5.png");
-    pinceles.aero6 = loadImage("imagenes/aero6.png");
-    pinceles.aero7 = loadImage("imagenes/aero7.png");
-    pinceles.aero10 = loadImage("imagenes/aero10.png");
-    pinceles.aero16 = loadImage("imagenes/aero16.png");
+    pinceles.aero1 = loadImage("Imagenes/aero1.png");
+    pinceles.aero3 = loadImage("Imagenes/aero3.png");
+    pinceles.aero4 = loadImage("Imagenes/aero4.png");
+    pinceles.aero5 = loadImage("Imagenes/aero5.png");
+    pinceles.aero6 = loadImage("Imagenes/aero6.png");
+    pinceles.aero7 = loadImage("Imagenes/aero7.png");
+    pinceles.aero10 = loadImage("Imagenes/aero10.png");
+    pinceles.aero16 = loadImage("Imagenes/aero16.png");
 
-    pinceles.drip1 = loadImage("imagenes/drip1.png");
-    pinceles.drip2 = loadImage("imagenes/drip2.png");
-    pinceles.drip3 = loadImage("imagenes/drip3.png");
-    pinceles.drip4 = loadImage("imagenes/drip4.png");
-    pinceles.drip5 = loadImage("imagenes/drip5.png");
-    pinceles.drip6 = loadImage("imagenes/drip6.png");
-    pinceles.drip8 = loadImage("imagenes/drip8.png");
+    pinceles.drip1 = loadImage("Imagenes/drip1.png");
+    pinceles.drip2 = loadImage("Imagenes/drip2.png");
+    pinceles.drip3 = loadImage("Imagenes/drip3.png");
+    pinceles.drip4 = loadImage("Imagenes/drip4.png");
+    pinceles.drip5 = loadImage("Imagenes/drip5.png");
+    pinceles.drip6 = loadImage("Imagenes/drip6.png");
+    pinceles.drip8 = loadImage("Imagenes/drip8.png");
 
-    pinceles.lineas5 = loadImage("imagenes/lineas5.png");
-    pinceles.lineas7 = loadImage("imagenes/lineas7.png");
-    pinceles.lineas9 = loadImage("imagenes/lineas9.png");
-    pinceles.lineas11 = loadImage("imagenes/lineas11.png");
-    pinceles.lineas13 = loadImage("imagenes/lineas13.png");
-    pinceles.lineas14 = loadImage("imagenes/lineas14.png");
-    pinceles.lineas22 = loadImage("imagenes/lineas22.png");
-    pinceles.lineas23 = loadImage("imagenes/lineas23.png");
-    pinceles.lineas35 = loadImage("imagenes/lineas35.png");
+    pinceles.lineas5 = loadImage("Imagenes/lineas5.png");
+    pinceles.lineas7 = loadImage("Imagenes/lineas7.png");
+    pinceles.lineas9 = loadImage("Imagenes/lineas9.png");
+    pinceles.lineas11 = loadImage("Imagenes/lineas11.png");
+    pinceles.lineas13 = loadImage("Imagenes/lineas13.png");
+    pinceles.lineas14 = loadImage("Imagenes/lineas14.png");
+    pinceles.lineas22 = loadImage("Imagenes/lineas22.png");
+    pinceles.lineas23 = loadImage("Imagenes/lineas23.png");
+    pinceles.lineas35 = loadImage("Imagenes/lineas35.png");
 
-    pinceles.puntos1 = loadImage("imagenes/puntos1.png");
-    pinceles.puntos2 = loadImage("imagenes/puntos2.png");
-    pinceles.puntos3 = loadImage("imagenes/puntos3.png");
-    pinceles.puntos11 = loadImage("imagenes/puntos11.png");
+    pinceles.puntos1 = loadImage("Imagenes/puntos1.png");
+    pinceles.puntos2 = loadImage("Imagenes/puntos2.png");
+    pinceles.puntos3 = loadImage("Imagenes/puntos3.png");
+    pinceles.puntos11 = loadImage("Imagenes/puntos11.png");
 
-    pinceles.idk1 = loadImage("imagenes/idk1.png");
-    pinceles.idk2 = loadImage("imagenes/idk2.png");
-    pinceles.idk6 = loadImage("imagenes/idk6.png");
-    pinceles.idk7 = loadImage("imagenes/idk7.png");
-    pinceles.idk8 = loadImage("imagenes/idk8.png");
-    pinceles.idk10 = loadImage("imagenes/idk10.png");
-    pinceles.idk11 = loadImage("imagenes/idk11.png");
-    pinceles.idk12 = loadImage("imagenes/idk12.png");
-    pinceles.idk15 = loadImage("imagenes/idk15.png");
-    pinceles.idk55 = loadImage("imagenes/idk55.png");
-    pinceles.idk56 = loadImage("imagenes/idk56.png");
+    pinceles.idk1 = loadImage("Imagenes/idk1.png");
+    pinceles.idk2 = loadImage("Imagenes/idk2.png");
+    pinceles.idk6 = loadImage("Imagenes/idk6.png");
+    pinceles.idk7 = loadImage("Imagenes/idk7.png");
+    pinceles.idk8 = loadImage("Imagenes/idk8.png");
+    pinceles.idk10 = loadImage("Imagenes/idk10.png");
+    pinceles.idk11 = loadImage("Imagenes/idk11.png");
+    pinceles.idk12 = loadImage("Imagenes/idk12.png");
+    pinceles.idk15 = loadImage("Imagenes/idk15.png");
+    pinceles.idk55 = loadImage("Imagenes/idk55.png");
+    pinceles.idk56 = loadImage("Imagenes/idk56.png");
 
 }
 
